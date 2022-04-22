@@ -57,7 +57,7 @@ internal_speedup  = 1.0;
 
 
 // Traffic
-traffic = transpose;
+traffic = uniform;
 packet_size = 20;
 
 
