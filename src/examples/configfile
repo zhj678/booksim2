@@ -34,7 +34,7 @@ k = 8;
 n = 2;
 
 // Routing
-routing_function = dor;
+routing_function = dim_order;
 
 // Flow control
 num_vcs     = 8;
